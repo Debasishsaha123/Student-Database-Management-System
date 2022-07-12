@@ -28,6 +28,18 @@ Purpose of project is to maintain details of the students such as storing inform
 
 8.Gender
 
+9.Division
+
+10.Semester
+
+11.Year
+
+12.Course
+
+13.Department
+
+14.Teacher
+
 ## Requirements
 
 Tkinter
@@ -39,3 +51,8 @@ Tkinter is the standard GUI(Graphical User Interface) library for Python. Python
 MySQL
 
 ![image](https://user-images.githubusercontent.com/100334542/178457860-2552f5f2-23ee-44a4-8f95-208ad9566759.png)
+
+## Interface 
+
+![Screenshot (1152)](https://user-images.githubusercontent.com/100334542/178579017-770a123b-ef31-4be4-a2f7-f7c0393e9d38.png)
+
