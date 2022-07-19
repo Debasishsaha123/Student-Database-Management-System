@@ -62,6 +62,3 @@ In order to create a database connectivity between Python and MySQL,we first nee
 ![Screenshot (1154)](https://user-images.githubusercontent.com/100334542/179423165-e63bfdfb-2459-4448-bbdf-b9deefd6654f.png)
 
 
-
-https://user-images.githubusercontent.com/100334542/179832391-6658d656-4092-402f-9d7a-1251898baa96.mp4
-
