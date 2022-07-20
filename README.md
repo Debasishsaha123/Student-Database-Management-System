@@ -57,8 +57,15 @@ In this project python is worked in font-end programming language and MySQL  is 
 In order to create a database connectivity between Python and MySQL,we first need to install MySQL connector.It is is used to connect Python with MySql so that we can store or retrieve data from Python as front-end and MySql as back-end.
 
 
-## Interface 
+## Interface
+
 
 ![Screenshot (1154)](https://user-images.githubusercontent.com/100334542/179423165-e63bfdfb-2459-4448-bbdf-b9deefd6654f.png)
 
+# **Add Function**
+
+
+
+
+https://user-images.githubusercontent.com/100334542/180047350-2af7004b-8be8-4844-915c-6b8e1ea7ce60.mp4
 
