@@ -62,14 +62,20 @@ In order to create a database connectivity between Python and MySQL,we first nee
 
 ![Screenshot (1154)](https://user-images.githubusercontent.com/100334542/179423165-e63bfdfb-2459-4448-bbdf-b9deefd6654f.png)
 
-# **Add Function**
+# **Add Data in Database**
 
 
 https://user-images.githubusercontent.com/100334542/180047350-2af7004b-8be8-4844-915c-6b8e1ea7ce60.mp4
 
-# **Update Function**
+# **Update the Data**
 
 
 
 https://user-images.githubusercontent.com/100334542/180052370-d43d2244-cdc5-411f-a2d9-bae1757b2175.mp4
+
+# **Delete data from Database**
+
+
+
+https://user-images.githubusercontent.com/100334542/180054459-72defdf0-4058-4667-a6cd-893c1ec76724.mp4
 
