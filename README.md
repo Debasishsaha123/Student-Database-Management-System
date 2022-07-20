@@ -12,33 +12,33 @@ result etc.
 
 Purpose of project is to maintain details of the students such as storing information about:
 
-1.Student id
+*1.Student id
 
-2.Student Name
+*2.Student Name
 
-3.Roll no
+*3.Roll no
 
-4.DOB
+*4.DOB
 
-5.Mail
+*5.Mail
 
-6.Phone No
+*6.Phone No
 
-7.Address
+*7.Address
 
-8.Gender
+*8.Gender
 
-9.Division
+*9.Division
 
-10.Semester
+*10.Semester
 
-11.Year
+*11.Year
 
-12.Course
+*12.Course
 
-13.Department
+*13.Department
 
-14.Teacher
+*14.Teacher**
 
 ## Requirements
 
@@ -78,4 +78,12 @@ https://user-images.githubusercontent.com/100334542/180052370-d43d2244-cdc5-411f
 
 
 https://user-images.githubusercontent.com/100334542/180054459-72defdf0-4058-4667-a6cd-893c1ec76724.mp4
+
+# **Reset Database**
+
+
+
+
+https://user-images.githubusercontent.com/100334542/180055622-343306c5-ae32-4a94-affd-26588df05b22.mp4
+
 
