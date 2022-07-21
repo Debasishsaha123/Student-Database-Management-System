@@ -10,45 +10,44 @@ result etc.
 ![smg2](https://user-images.githubusercontent.com/100334542/178456821-6ebcc431-2569-41af-9f80-dd4869aafbd0.gif)
 
 
-Purpose of project is to maintain details of the students such as storing information about:
+Purpose of project is to maintain details of the students such as storing information about
+1.Student id
 
-*1.Student id
+2.Student Name
 
-*2.Student Name
+3.Roll no
 
-*3.Roll no
+4.DOB
 
-*4.DOB
+5.Mail
 
-*5.Mail
+6.Phone No
 
-*6.Phone No
+7.Address
 
-*7.Address
+8.Gender
 
-*8.Gender
+9.Division
 
-*9.Division
+10.Semester
 
-*10.Semester
+11.Year
 
-*11.Year
+12.Course
 
-*12.Course
+13.Department
 
-*13.Department
-
-*14.Teacher**
+14.Teacher
 
 ## Requirements
 
-Tkinter
+**Tkinter**
 
 ![image](https://user-images.githubusercontent.com/100334542/178457537-ccaa5bf6-dc7d-4a49-a24a-ee1ca360d27d.png)
 
 Tkinter is the standard GUI(Graphical User Interface) library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
-MySQL
+**MySQL**
 
 ![image](https://user-images.githubusercontent.com/100334542/178457860-2552f5f2-23ee-44a4-8f95-208ad9566759.png)
 
@@ -85,5 +84,13 @@ https://user-images.githubusercontent.com/100334542/180054459-72defdf0-4058-4667
 
 
 https://user-images.githubusercontent.com/100334542/180055622-343306c5-ae32-4a94-affd-26588df05b22.mp4
+
+# **Search the details of the Student**
+
+
+
+
+
+https://user-images.githubusercontent.com/100334542/180297368-7a14c5e4-5148-407b-a9cd-d88bb993a28e.mp4
 
 
