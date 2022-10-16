@@ -11,6 +11,7 @@ result etc.
 
 
 Purpose of project is to maintain details of the students such as storing information about
+
 1.Student id
 
 2.Student Name
